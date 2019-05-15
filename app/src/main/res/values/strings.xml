@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SyncAx</string>
+    <string name="sync">синхронизация</string>
+    <string name="to_sync">назад</string>
+
+    <string name="morning">Утро</string>
+    <string name="afternoon">Обед</string>
+    <string name="evening">Вечер</string>
+
+    <string name="morning_host">morning</string>
+    <string name="afternoon_host">afternoon</string>
+    <string name="evening_host">evening</string>
+
+</resources>
